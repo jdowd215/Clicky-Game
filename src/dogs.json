@@ -1,0 +1,62 @@
+[
+  {
+        "breed": "terrier",
+        "image": "https://images.dog.ceo/breeds/terrier-wheaten/n02098105_1419.jpg"
+  },
+  {
+      "breed": "bulldog",
+      "image": "https://dog.ceo/api/img/bulldog-boston/n02096585_1737.jpg"
+  },
+  {
+      "breed": "beagle",
+      "image": "https://dog.ceo/api/img/beagle/n02088364_13050.jpg"
+  },
+  {
+      "breed": "doberman",
+      "image": "https://images.dog.ceo/breeds/doberman/n02107142_1251.jpg"
+  },
+  {
+      "breed": "doberman",
+      "image": "https://dog.ceo/api/img/pomeranian/n02112018_13636.jpg"
+  },
+  {
+      "breed": "poodle",
+      "image": "https://dog.ceo/api/img/poodle-miniature/n02113712_1088.jpg"
+  },
+  {
+      "breed": "pyrenees",
+      "image": "https://dog.ceo/api/img/pyrenees/n02111500_395.jpg"
+  },
+  {
+    "breed": "husky",
+    "image": "https://dog.ceo/api/img/husky/n02110185_14523.jpg"
+  },
+  {
+      "breed": "chihuahua",
+      "image": "https://dog.ceo/api/img/chihuahua/n02085620_3409.jpg"
+  },
+  {
+      "breed": "boxer",
+      "image": "https://dog.ceo/api/img/boxer/n02108089_11687.jpg"
+  },
+  {
+      "breed": "chow",
+      "image": "https://dog.ceo/api/img/chow/n02112137_12792.jpg"
+  },
+  {
+      "breed": "corgi",
+      "image": "https://images.dog.ceo/breeds/corgi-cardigan/n02113186_1120.jpg"
+  },
+  {
+      "breed": "mastiff",
+      "image": "https://dog.ceo/api/img/mastiff-bull/n02108422_2052.jpg"
+  },
+  {
+      "breed": "sheepdog",
+      "image": "https://dog.ceo/api/img/sheepdog-english/n02105641_12614.jpg"
+  },
+  {
+      "breed": "afghan",
+      "image": "https://images.dog.ceo/breeds/hound-afghan/n02088094_13502.jpg"
+  }
+]
